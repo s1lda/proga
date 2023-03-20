@@ -1,0 +1,15 @@
+C:\Users\ZALMAN\source\repos\muha\muha\bin\Debug\net6.0\muha.exe
+C:\Users\ZALMAN\source\repos\muha\muha\bin\Debug\net6.0\muha.deps.json
+C:\Users\ZALMAN\source\repos\muha\muha\bin\Debug\net6.0\muha.runtimeconfig.json
+C:\Users\ZALMAN\source\repos\muha\muha\bin\Debug\net6.0\muha.dll
+C:\Users\ZALMAN\source\repos\muha\muha\bin\Debug\net6.0\muha.pdb
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.csproj.AssemblyReference.cache
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.AssemblyInfoInputs.cache
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.AssemblyInfo.cs
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.csproj.CoreCompileInputs.cache
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.dll
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\refint\muha.dll
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.pdb
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\muha.genruntimeconfig.cache
+C:\Users\ZALMAN\source\repos\muha\muha\obj\Debug\net6.0\ref\muha.dll
