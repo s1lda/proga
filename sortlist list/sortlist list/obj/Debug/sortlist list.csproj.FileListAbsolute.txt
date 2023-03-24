@@ -1,6 +1,0 @@
-D:\sortlist list\sortlist list\bin\Debug\sortlist list.exe.config
-D:\sortlist list\sortlist list\obj\Debug\sortlist list.csprojResolveAssemblyReference.cache
-D:\sortlist list\sortlist list\bin\Debug\sortlist list.exe
-D:\sortlist list\sortlist list\bin\Debug\sortlist list.pdb
-D:\sortlist list\sortlist list\obj\Debug\sortlist list.exe
-D:\sortlist list\sortlist list\obj\Debug\sortlist list.pdb
