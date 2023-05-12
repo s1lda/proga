@@ -1,0 +1,15 @@
+C:\Users\ZALMAN\source\repos\money\money\bin\Debug\net6.0\money.exe
+C:\Users\ZALMAN\source\repos\money\money\bin\Debug\net6.0\money.deps.json
+C:\Users\ZALMAN\source\repos\money\money\bin\Debug\net6.0\money.runtimeconfig.json
+C:\Users\ZALMAN\source\repos\money\money\bin\Debug\net6.0\money.dll
+C:\Users\ZALMAN\source\repos\money\money\bin\Debug\net6.0\money.pdb
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.csproj.AssemblyReference.cache
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.AssemblyInfoInputs.cache
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.AssemblyInfo.cs
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.csproj.CoreCompileInputs.cache
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.dll
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\refint\money.dll
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.pdb
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\money.genruntimeconfig.cache
+C:\Users\ZALMAN\source\repos\money\money\obj\Debug\net6.0\ref\money.dll
